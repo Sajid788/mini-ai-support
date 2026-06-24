@@ -389,17 +389,6 @@ docker-compose up --build
 
 ---
 
-# Future Improvements
-
-Possible enhancements:
-
-* Real embedding APIs (OpenAI / Sentence Transformers)
-* WebSocket streaming
-* Authentication
-* Multi-tenant support
-* Vector databases (Pinecone / Weaviate)
-* Analytics dashboard
-* Cost optimization engine
 
 ---
 
