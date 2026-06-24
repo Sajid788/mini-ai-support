@@ -366,6 +366,8 @@ Create `.env`
 PORT=8080
 MONGO_URI=your_mongo_uri
 REDIS_URL=redis://localhost:6379
+GROQ_API_KEY=your_api_key
+GROQ_MODEL=your_model
 SIMILARITY_THRESHOLD=0.85
 ```
 
